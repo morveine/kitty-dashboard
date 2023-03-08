@@ -199,6 +199,10 @@ h3 {
     clip-path: circle(30.0% at 50% 50%);
 }
 
+p.description {
+    color: #9f9f9f;
+}
+
 @media screen and (min-width: 300px) and (max-width: 1100px) {
     .cards {
         grid-template-columns: 1fr;
